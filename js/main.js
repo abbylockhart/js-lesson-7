@@ -18,7 +18,7 @@ console.log(blogPost.title);
 console.log(blogPost.author);
 
 
-// Invoking blogPost method
+
 blogPost.displayInfo();
 
 // objects for gallery image
